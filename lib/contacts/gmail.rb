@@ -1,4 +1,4 @@
-require 'gdata_19'
+require 'gdata'
 
 class Contacts
   class Gmail < Base
